@@ -1,0 +1,35 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Item : Interactable
+{
+    public string ID;
+    public string Name;
+    public GameObject Sprite;
+    // Called before the first frame.
+    protected override void InitializeInteractable()
+    {
+        
+    }
+
+    // Called once per frame.
+    protected override void UpdateInteractable()
+    {
+        
+    }
+
+    // Called by the InteractionManager when isInteractable (inherited) is true.
+    public override void Interaction()
+    {
+        //StartCoroutine(PickUpItem());
+        //https://stackoverflow.com/questions/66811360/c-sharp-unity-wait-for-function-to-be-called
+        //TODO destory gameobject after itterable in inventory manager uis done
+    }
+
+    public IEnumerator PickUpItem()
+    {
+        // yield return InventoryManager.instance.AddItem(this);
+        //Destroy(this.gameObject);
+    }
+}

@@ -1,0 +1,40 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    private Animator _anim;
+    private SpriteRenderer _renderer;
+
+    public int state;
+
+    void Awake()
+    {
+        _anim = GetComponent<Animator>();
+        _renderer = GetComponent<SpriteRenderer>();
+        
+    }
+    
+
+    // Update is called once per frame
+    void FixedUpdate()
+    {
+        if (state == _currentState) return;
+        _anim.CrossFade(state, 0, 0);
+        _currentState = state;
+    }
+
+    public void Animation1()
+    {
+	#NOTRIM#
+    }
+
+
+    #region Cached Properties
+
+    private int _currentState;
+	#NOTRIM#
+    private static readonly int animation1 = Animator.StringToHash("Animation1");
+    #endregion
+}
