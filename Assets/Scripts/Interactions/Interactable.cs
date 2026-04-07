@@ -7,7 +7,8 @@ public class Interactable : DebugMonoBehaviour
     [Space(20)]
     private Collider2D _collider;
     [Tooltip("Sent to the UI manager to display when this object is interactable")]
-    [SerializeField] private string controlText = "[E]  interact"; // TODO only have e in the text UI tags?
+    [SerializeField] private string controlText = "[E] "; // TODO only have e in the text UI tags?
+    public string interactionText;
     private bool isInteractable = false;
 
     // Start is called before the first frame update

@@ -9,7 +9,7 @@ public class InventoryTabAnimator : MonoBehaviour
 
     public int state;
     private int stateIndex = 0;
-    private static int numberOfTabs = 4;
+    private const int numberOfTabs = 4;
 
     void Awake()
     {
@@ -26,7 +26,7 @@ public class InventoryTabAnimator : MonoBehaviour
         _currentState = state;
     }
 
-    public void ChangeTab(int direction)
+    public InventoryTab ChangeTab(int direction)
     {
         if ((stateIndex + direction) > (numberOfTabs - 1))
         {
@@ -45,16 +45,19 @@ public class InventoryTabAnimator : MonoBehaviour
         {
             case 0:
                 state = items;
-                return;
+                return InventoryTab.Items;
             case 1:
                 state = phoneNumbers;
-                return;
+                return InventoryTab.PhoneNumbers;
             case 2:
                 state = keys;
-                return;
+                return InventoryTab.Keys;
             case 3:
                 state = ids;
-                return;
+                return InventoryTab.IDs;
+            default:
+                state = items;
+                return InventoryTab.Items;
         }
     }
 

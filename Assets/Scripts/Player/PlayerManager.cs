@@ -6,8 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerManager : DebugMonoBehaviour, IDataPersistence
 {
     private Rigidbody2D _rigidbody;
-    public float Horizontal { get; private set; } // used for movement and ui navigating
-    public float Vertical { get; private set; } // used for movement and ui navigating
+    public float Horizontal { get; private set; } // used for movement
     public float Speed = 7f;
     
     public PlayerAnimator PlayerAnimator;
@@ -62,9 +61,7 @@ public class PlayerManager : DebugMonoBehaviour, IDataPersistence
     {
         _rigidbody = GetComponent<Rigidbody2D>();
         playerInput = GetComponent<PlayerInput>();
-        //For debug purposes (in main menu, would be ui probably)
-        playerMode = PlayerMode.Interact;
-        playerInput.SwitchCurrentActionMap("Player");
+        ChangeMode(PlayerMode.Interact); //TODO: this should be UI for main menu, sceneloadermanager will need to change this to interact
     }
 
     void FixedUpdate()
@@ -111,7 +108,15 @@ public class PlayerManager : DebugMonoBehaviour, IDataPersistence
     public void OnMove(InputAction.CallbackContext context)
     {
         Horizontal = context.ReadValue<Vector2>().x;
-        Vertical = context.ReadValue<Vector2>().y;
+    }
+
+    public void OnInteractionNavigate(InputAction.CallbackContext context)
+    {
+        float value = context.ReadValue<Vector2>().y;
+        if (value != 0)
+        {
+            UIManager.instance.NavigateInteractionOptions((int)value);
+        }
     }
 
     public void OnInteract(InputAction.CallbackContext context)
@@ -123,11 +128,11 @@ public class PlayerManager : DebugMonoBehaviour, IDataPersistence
         }
     }
 
-    //TODO: bug, need to press inventory twice for it to open the first time
     public void OnPressInventory(InputAction.CallbackContext context)
     {
         if (context.started)
         {
+            Print("Pressed I", "inventory");
             switch (playerMode)
             {
                 case PlayerMode.Inventory:
@@ -143,7 +148,7 @@ public class PlayerManager : DebugMonoBehaviour, IDataPersistence
         }
     }
 
-    public void TabNavigate(InputAction.CallbackContext context)
+    public void OnTabNavigate(InputAction.CallbackContext context)
     {
         float value = context.ReadValue<Vector2>().x;
         UIManager.instance.NavigateTab(UIWindow.Inventory, value);

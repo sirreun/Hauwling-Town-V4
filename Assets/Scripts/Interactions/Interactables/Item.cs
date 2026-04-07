@@ -10,7 +10,7 @@ public class Item : Interactable
     // Called before the first frame.
     protected override void InitializeInteractable()
     {
-        
+        //interactionText = Name; TODO
     }
 
     // Called once per frame.

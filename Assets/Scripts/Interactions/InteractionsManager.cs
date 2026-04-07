@@ -1,12 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Toolbars;
 using UnityEngine;
 
 public class InteractionsManager : DebugMonoBehaviour
 {
     [Tooltip("Holds all interactables that have isInteractable set to true")]
     [Space(10)]
-    public List<Interactable> interactables = new List<Interactable>();
+    public List<Interactable> Interactables = new List<Interactable>();
     private int selectedInteractable = -1;
 
     public static InteractionsManager instance { get; private set; }
@@ -26,21 +27,24 @@ public class InteractionsManager : DebugMonoBehaviour
 
     private void FixedUpdate()
     {
-        if (interactables.Count > 0)
+        if (Interactables.Count > 0)
         {
-            // Show UI list
-            //
+            // TODO: update interactables UI?
         }
     }
 
     public void AddInteractable(Interactable interactable)
     {
-        interactables.Add(interactable);
+        Interactables.Add(interactable);
+        // TODO: update interactables UI
+        UIManager.instance.UpdateInteractionsText();
     }
 
     public void RemoveInteractable(Interactable interactable)
     {
-        interactables.Remove(interactable);
+        Interactables.Remove(interactable);
+        // TODO: update interactables UI
+        UIManager.instance.UpdateInteractionsText();
     }
 
     // TODO : make sure only the selected interactable in UI is interacted with
@@ -50,9 +54,8 @@ public class InteractionsManager : DebugMonoBehaviour
     /// </summary>
     public void HandleInteractions()
     {
-        for (int i = 0; i < interactables.Count; i++)
-        {
-            interactables[i].Interaction();
-        }
+        int index = UIManager.instance.CurrentInteractableIndex;
+        Interactables[index].Interaction();
+
     }
 }
