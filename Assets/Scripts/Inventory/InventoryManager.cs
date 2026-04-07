@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class InventoryManager : DebugMonoBehaviour, IDataPersistence
@@ -78,6 +79,36 @@ public class InventoryManager : DebugMonoBehaviour, IDataPersistence
         }
 
         return true;
+    }
+
+    public void OpenUI()
+    {
+        PlayerManager.instance.ChangeMode(PlayerManager.PlayerMode.Inventory);
+
+        UIManager.instance.OpenWindow(UIWindow.Inventory);
+    }
+
+    public void CloseUI()
+    {
+        PlayerManager.instance.ChangeMode(PlayerManager.PlayerMode.Interact);
+
+        UIManager.instance.CloseWindow(UIWindow.Inventory);
+    }
+
+    public List<(string, int)> GetInventoryItems(InventoryTab tab)
+    {
+        List<(string, int)> output = new List<(string, int)>();
+        switch (tab)
+        {
+            case InventoryTab.Items:
+                output = Items.Values.ToList<(string,int)>();
+                break;
+            default:
+                Debug.LogWarning("InventoryManager: GetInventoryItems(): Other tab does not have get inventory functionality");
+                break;
+        }
+
+        return output;
     }
 
 }

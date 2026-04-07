@@ -22,14 +22,14 @@ public class Item : Interactable
     // Called by the InteractionManager when isInteractable (inherited) is true.
     public override void Interaction()
     {
-        //StartCoroutine(PickUpItem());
+        PickUpItem();
         //https://stackoverflow.com/questions/66811360/c-sharp-unity-wait-for-function-to-be-called
         //TODO destory gameobject after itterable in inventory manager uis done
     }
 
-    public IEnumerator PickUpItem()
+    public void PickUpItem()
     {
-        // yield return InventoryManager.instance.AddItem(this);
-        //Destroy(this.gameObject);
+        InventoryManager.instance.AddItem(this);
+        Destroy(this.gameObject);
     }
 }

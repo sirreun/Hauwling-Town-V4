@@ -50,9 +50,9 @@ public class InteractionsManager : DebugMonoBehaviour
     /// </summary>
     public void HandleInteractions()
     {
-        foreach (Interactable interactable in interactables)
+        for (int i = 0; i < interactables.Count; i++)
         {
-            interactable.Interaction();
+            interactables[i].Interaction();
         }
     }
 }

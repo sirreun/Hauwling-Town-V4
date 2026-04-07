@@ -123,6 +123,32 @@ public class PlayerManager : DebugMonoBehaviour, IDataPersistence
         }
     }
 
+    //TODO: bug, need to press inventory twice for it to open the first time
+    public void OnPressInventory(InputAction.CallbackContext context)
+    {
+        if (context.started)
+        {
+            switch (playerMode)
+            {
+                case PlayerMode.Inventory:
+                    InventoryManager.instance.CloseUI();
+                    break;
+                case PlayerMode.Pause:
+                case PlayerMode.Menu:
+                    break;
+                default:
+                    InventoryManager.instance.OpenUI();
+                    break;
+            }
+        }
+    }
+
+    public void TabNavigate(InputAction.CallbackContext context)
+    {
+        float value = context.ReadValue<Vector2>().x;
+        UIManager.instance.NavigateTab(UIWindow.Inventory, value);
+    }
+
     // PUBLIC FUNCTIONS
     public void ChangeMode(PlayerMode mode)
     {
