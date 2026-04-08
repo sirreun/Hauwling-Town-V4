@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Need to think closer about how to build these classes for the easiest usability
 public class Location : DebugMonoBehaviour
 {
     // Start is called before the first frame update

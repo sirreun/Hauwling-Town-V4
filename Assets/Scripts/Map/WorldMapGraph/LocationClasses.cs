@@ -17,6 +17,13 @@ namespace Unity.GraphToolkit.WorldMapEditor
         public string Name;
         public List<string> Connections;
     }
+
+    [Serializable]
+    public class LocationJsonList
+    {
+        public List<LocationJson> Data;
+    }
+
     public enum Districts
     {
         Downtown,

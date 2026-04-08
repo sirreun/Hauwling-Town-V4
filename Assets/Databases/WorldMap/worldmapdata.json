@@ -1,0 +1,185 @@
+{
+    "Data": [
+        {
+            "ID": "b50ad5b9-3c9b-4fed-be13-d870c14cdbf7",
+            "Name": "Main Street",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "5e36b2ab-be24-4dd6-b37f-dde9bf9bb059",
+            "Name": "Cafe Lux",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "7dfe3913-2487-4782-a333-b98d10a2f983",
+            "Name": "Downtown Subway Station",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "c88f6115-6da6-44bd-a0e4-5f57edcf819a",
+            "Name": "Union Street",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "797d18c2-dfb5-4bda-a1c5-53056cc42acb",
+            "Name": "Hauwling Town Post Office",
+            "Connections": []
+        },
+        {
+            "ID": "d61d0ffa-cf1e-4e8a-b603-c53f8a14d40c",
+            "Name": "27th Street",
+            "Connections": [
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "1fb712cd-1c1a-44b3-babb-dac76114c566",
+            "Name": "28th Street",
+            "Connections": [
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "823010d9-d595-46e5-ba76-fafe1b1fee72",
+            "Name": "Foxwood Street",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "574accbd-9310-49f3-ab0a-b25c14e4e773",
+            "Name": "3745 Foxwood St. Apartment",
+            "Connections": [
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "19515cc7-005e-48da-b374-a78aa4bbbcba",
+            "Name": "River Market",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "69f28ec5-841f-495b-946b-fa11aebbe5ea",
+            "Name": "Lobby",
+            "Connections": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "8d684bc5-af98-4504-ba00-110018bc055f",
+            "Name": "Player Bedroom",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "5c061e09-fc11-4fa5-a15b-87bdb94fb5ac",
+            "Name": "Player Living Room",
+            "Connections": [
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "db643bc5-d228-4de3-903e-7a61bbd08404",
+            "Name": "2nd Floor Hallway",
+            "Connections": [
+                "242fc347-0afa-45c2-a690-a442dd9f684f",
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "520f8dc5-5c44-4682-af17-c65b1ca08434",
+            "Name": "Apartment 2B Living Room",
+            "Connections": []
+        },
+        {
+            "ID": "af128551-fd94-4ac6-9315-9a075858d96e",
+            "Name": "Stairwell Floor 2",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "760b181c-5c56-474f-941e-665392ce71a9",
+            "Name": "1st Floor Hallway",
+            "Connections": [
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "5aede7e6-8e53-45b8-8d88-1c65bf4fee7b",
+            "Name": "Apartment 1A",
+            "Connections": []
+        },
+        {
+            "ID": "f24cc7fe-ccd9-4a00-8c9c-cd73a3dbce31",
+            "Name": "Apartment 1B",
+            "Connections": []
+        },
+        {
+            "ID": "18cd4009-c0d3-466c-b111-539fc06c1d1a",
+            "Name": "3rd Floor Hallway",
+            "Connections": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "89bcf2fc-93fb-42ad-8fe6-5032ac5fea1f",
+            "Name": "Apartment 3A",
+            "Connections": []
+        },
+        {
+            "ID": "68aa7b88-6e91-4ac5-a5b2-a44fa12dc319",
+            "Name": "Apartment 3B",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "2b0f3f75-c3e6-4d4f-83f1-bfd52b084e9a",
+            "Name": "Rooftop",
+            "Connections": [
+                ""
+            ]
+        },
+        {
+            "ID": "623d75de-c239-4b6e-84ca-2022c022b6b7",
+            "Name": "3rd Floor Stairwell",
+            "Connections": []
+        },
+        {
+            "ID": "30a7c77c-1a2d-46ad-92e2-2f0ee46f5263",
+            "Name": "Eastside Subway Station",
+            "Connections": [
+                "",
+                ""
+            ]
+        },
+        {
+            "ID": "ed342dd3-7001-44be-9790-ed4997eefcd0",
+            "Name": "Yarkdale Ave",
+            "Connections": []
+        }
+    ]
+}

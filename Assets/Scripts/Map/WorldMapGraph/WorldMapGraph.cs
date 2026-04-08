@@ -57,10 +57,17 @@ namespace Unity.GraphToolkit.WorldMapEditor
 
             for (var i = 0; i < connectionCount; i++)
             {
-                context.AddInputPort<LocationNode>($"{i}").Build(); // TODO: make custom class for connections
+                context.AddInputPort<string>($"{i}").Build();
             }
 
             context.AddOutputPort<LocationNode>("Connections").Build();
+            context.AddOutputPort<string>("TrueID").Build();
+            //IPort connectIDPort = GetOutputPortByName("ConnectID");
+            //if (connectIDPort != null)
+            //{
+                //connectIDPort.TrySetValue(id); // TODO: when 6.5 comes out, it should have this
+            //}
+            
         }
     }
 }

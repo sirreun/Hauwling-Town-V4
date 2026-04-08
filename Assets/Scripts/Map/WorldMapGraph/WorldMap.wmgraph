@@ -90,8 +90,6 @@ MonoBehaviour:
         - rid: 8112812696905449910
         - rid: 8112812696905449919
         - rid: 8112812696905449933
-        - rid: 8112812696905449942
-        - rid: 8112812696905449950
         - rid: 8112812696905449959
         - rid: 8112812696905449968
         - rid: 8112812696905449980
@@ -136,9 +134,9 @@ MonoBehaviour:
         m_LocalSubgraphs: []
         m_LastKnownBounds:
           serializedVersion: 2
-          x: -1716
+          x: -1984
           y: -709
-          width: 4291
+          width: 4559
           height: 2772
         m_GraphElementMetaData:
         - m_Guid:
@@ -502,14 +500,6 @@ MonoBehaviour:
           m_Category: 0
           m_Index: 22
         - m_Guid:
-            m_Value0: 1104556512956005047
-            m_Value1: 6732315176627711465
-          m_HashGuid:
-            serializedVersion: 2
-            Hash: b73a16dd4b2c540fe9addddafbfc6d5d
-          m_Category: 2
-          m_Index: 17
-        - m_Guid:
             m_Value0: 12639019157523904563
             m_Value1: 13150709656727690171
           m_HashGuid:
@@ -517,14 +507,6 @@ MonoBehaviour:
             Hash: 33b89199f5d066afbb9b8de1c1b480b6
           m_Category: 0
           m_Index: 23
-        - m_Guid:
-            m_Value0: 6339909327071607565
-            m_Value1: 4987143775789506504
-          m_HashGuid:
-            serializedVersion: 2
-            Hash: 0dfb4954f1e1fb57c8dfbb4fd7e43545
-          m_Category: 2
-          m_Index: 18
         - m_Guid:
             m_Value0: 11111081857571398610
             m_Value1: 4908986183194560115
@@ -540,7 +522,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 7fe8375793a4b41efdbf9044b05c9981
           m_Category: 2
-          m_Index: 19
+          m_Index: 17
         - m_Guid:
             m_Value0: 889793411635139668
             m_Value1: 17503003067462049542
@@ -556,7 +538,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 80c1a61ec7a2efde6b233bcd31fea1ee
           m_Category: 2
-          m_Index: 20
+          m_Index: 18
         - m_Guid:
             m_Value0: 18160375252419522212
             m_Value1: 10870762211892936306
@@ -572,7 +554,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 31273df3baa652560ab7ed40db6cdceb
           m_Category: 2
-          m_Index: 21
+          m_Index: 19
         - m_Guid:
             m_Value0: 4376000748918941649
             m_Value1: 6310449365674818539
@@ -580,7 +562,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: d12728007fadba3cebfb228e43389357
           m_Category: 2
-          m_Index: 22
+          m_Index: 20
         - m_Guid:
             m_Value0: 14992578818306649963
             m_Value1: 5094220951086830967
@@ -596,7 +578,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 4ce8f4d637e1de6816aad4f1c01f495f
           m_Category: 2
-          m_Index: 23
+          m_Index: 21
         - m_Guid:
             m_Value0: 3466388321457042442
             m_Value1: 8000088868511469167
@@ -612,7 +594,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: c2902ca46810597c4c87a9099e3e1dc8
           m_Category: 2
-          m_Index: 24
+          m_Index: 22
         - m_Guid:
             m_Value0: 10695278373723612552
             m_Value1: 12218409236208886183
@@ -628,7 +610,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 83270bfe94d9150808438a9295c4faa7
           m_Category: 2
-          m_Index: 25
+          m_Index: 23
         - m_Guid:
             m_Value0: 17783161837956237882
             m_Value1: 10391462575715349786
@@ -644,7 +626,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: d8eb03a0a13581e5ae6228d0770c99bc
           m_Category: 2
-          m_Index: 26
+          m_Index: 24
         - m_Guid:
             m_Value0: 79499328386430265
             m_Value1: 17438645354697520965
@@ -660,7 +642,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 3e8aa8fa3ec34d06b9d9a3f61b17b819
           m_Category: 2
-          m_Index: 27
+          m_Index: 25
         - m_Guid:
             m_Value0: 18092883776905708649
             m_Value1: 17100697964646123301
@@ -676,7 +658,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: dbc84d7fdb839e1db5fdca80c629e7dd
           m_Category: 2
-          m_Index: 28
+          m_Index: 26
         - m_Guid:
             m_Value0: 4033506661732163120
             m_Value1: 7100128524714160864
@@ -692,7 +674,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 069ebbf36344b1482a028a5f7efba679
           m_Category: 2
-          m_Index: 29
+          m_Index: 27
         - m_Guid:
             m_Value0: 1766514702162749088
             m_Value1: 8879809224393581773
@@ -700,7 +682,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: a066ea20c3eb8318cd64373d716b3b7b
           m_Category: 2
-          m_Index: 30
+          m_Index: 28
         - m_Guid:
             m_Value0: 6758619419822926234
             m_Value1: 1785046682318942530
@@ -708,7 +690,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 9a299aba8d70cb5d42311cff7fc2c518
           m_Category: 2
-          m_Index: 31
+          m_Index: 29
         - m_Guid:
             m_Value0: 6178023522505802469
             m_Value1: 1642093692784772879
@@ -724,7 +706,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 8337acbc30cad469137c19c5146b6932
           m_Category: 2
-          m_Index: 32
+          m_Index: 30
         - m_Guid:
             m_Value0: 17440638833548052990
             m_Value1: 5635123048115343225
@@ -756,7 +738,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: c9f2fef9d044672bc46d58cfa66babea
           m_Category: 2
-          m_Index: 33
+          m_Index: 31
         - m_Guid:
             m_Value0: 5450609518815827839
             m_Value1: 5212729063465642608
@@ -772,7 +754,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: 5e99e6a050ee56582902bd7eab2c8752
           m_Category: 2
-          m_Index: 34
+          m_Index: 32
         - m_Guid:
             m_Value0: 18232967072914760675
             m_Value1: 450085314361912438
@@ -804,7 +786,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: bbf52e5c0882b7f011eb75fb1ae1aa7a
           m_Category: 2
-          m_Index: 35
+          m_Index: 33
         - m_Guid:
             m_Value0: 4129934456310484627
             m_Value1: 1486929892388106609
@@ -836,7 +818,7 @@ MonoBehaviour:
             serializedVersion: 2
             Hash: ec353771aed908a2f5f13935eb1cc989
           m_Category: 2
-          m_Index: 36
+          m_Index: 34
         m_EntryPoint:
           rid: 8112812696905449756
         m_Graph:
@@ -866,7 +848,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: f91c6e230923dffee9c34f958cb2572f
         m_Version: 2
-        m_Position: {x: 505.67615, y: -597.0493}
+        m_Position: {x: 514.37177, y: -619.658}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -874,17 +856,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - Name
           - 0
           - __option_ID
           - District
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449758
           - rid: 8112812696905449759
-          - rid: 8112812696905449760
+          - rid: 8112812703323521213
           - rid: 8112812696905449767
           - rid: 8112812696905449770
+          - rid: 8112812703323521143
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -900,17 +882,10 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449761
-    - rid: 8112812696905449758
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449759
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
         m_Value: Main Street
-    - rid: 8112812696905449760
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449761
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -947,17 +922,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449773
           - rid: 8112812696905449774
           - rid: 8112812696905449775
           - rid: 8112812696905449776
-          - rid: 8112812696905449777
+          - rid: 8112812703323521214
+          - rid: 8112812703323521144
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -1005,10 +980,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 
-    - rid: 8112812696905449773
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449774
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -1028,9 +999,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449777
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449778
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -1052,17 +1020,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449781
           - rid: 8112812696905449782
           - rid: 8112812696905449783
           - rid: 8112812696905449784
-          - rid: 8112812696905449785
+          - rid: 8112812703323521215
+          - rid: 8112812703323521145
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -1110,10 +1078,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 
-    - rid: 8112812696905449781
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449782
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -1133,9 +1097,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449785
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449786
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -1157,17 +1118,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449797
           - rid: 8112812696905449798
           - rid: 8112812696905449799
           - rid: 8112812696905449800
-          - rid: 8112812696905449801
+          - rid: 8112812703323521216
+          - rid: 8112812703323521146
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -1183,10 +1144,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449802
-    - rid: 8112812696905449797
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449798
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -1206,9 +1163,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449801
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449802
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -1222,7 +1176,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 240a0f70dfd933fbbed920326688ba44
         m_Version: 2
-        m_Position: {x: 31.306648, y: 15.3190155}
+        m_Position: {x: 25.219673, y: 10.971191}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -1230,15 +1184,15 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449826
           - rid: 8112812696905449827
           - rid: 8112812696905449828
           - rid: 8112812696905449829
+          - rid: 8112812703323521147
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -1254,10 +1208,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449831
-    - rid: 8112812696905449826
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 0
     - rid: 8112812696905449827
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -1290,7 +1240,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 4896610f8b10dd32a5c3bd6301829ad5
         m_Version: 2
-        m_Position: {x: 880.5469, y: -635.6396}
+        m_Position: {x: 885.1448, y: -630.9223}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -1298,19 +1248,19 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449834
           - rid: 8112812696905449835
           - rid: 8112812696905449836
           - rid: 8112812696905449837
-          - rid: 8112812696905449838
-          - rid: 8112812696905449858
+          - rid: 8112812703323521217
+          - rid: 8112812703323521218
+          - rid: 8112812703323521148
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -1326,10 +1276,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449839
-    - rid: 8112812696905449834
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 2
     - rid: 8112812696905449835
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -1349,9 +1295,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449838
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449839
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -1365,7 +1308,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: a2214f083b08294a3b1676a48ad34b1f
         m_Version: 2
-        m_Position: {x: 879.30786, y: -319.185}
+        m_Position: {x: 881.0232, y: -319.185}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -1373,19 +1316,19 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449842
           - rid: 8112812696905449843
           - rid: 8112812696905449844
           - rid: 8112812696905449845
-          - rid: 8112812696905449846
-          - rid: 8112812696905449859
+          - rid: 8112812703323521219
+          - rid: 8112812703323521220
+          - rid: 8112812703323521149
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -1401,10 +1344,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449847
-    - rid: 8112812696905449842
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 2
     - rid: 8112812696905449843
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -1424,9 +1363,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449846
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449847
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -1448,17 +1384,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449850
           - rid: 8112812696905449851
           - rid: 8112812696905449852
           - rid: 8112812696905449853
-          - rid: 8112812696905449854
+          - rid: 8112812703323521221
+          - rid: 8112812703323521150
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -1506,10 +1442,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 0
-    - rid: 8112812696905449850
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449851
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -1529,18 +1461,9 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449854
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449855
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
-    - rid: 8112812696905449858
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
-    - rid: 8112812696905449859
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449861
       type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -2159,19 +2082,19 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449898
           - rid: 8112812696905449899
           - rid: 8112812696905449900
           - rid: 8112812696905449901
-          - rid: 8112812696905449902
-          - rid: 8112812696905449925
+          - rid: 8112812703323521222
+          - rid: 8112812703323521223
+          - rid: 8112812703323521151
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -2219,10 +2142,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 
-    - rid: 8112812696905449898
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 2
     - rid: 8112812696905449899
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -2242,9 +2161,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449902
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449903
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -2402,17 +2318,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449911
           - rid: 8112812696905449912
           - rid: 8112812696905449913
           - rid: 8112812696905449914
-          - rid: 8112812696905449915
+          - rid: 8112812703323521224
+          - rid: 8112812703323521152
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -2460,10 +2376,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 
-    - rid: 8112812696905449911
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449912
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -2483,9 +2395,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449915
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449916
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -2625,9 +2534,6 @@ MonoBehaviour:
     - rid: 8112812696905449921
       type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data: {}
-    - rid: 8112812696905449925
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449926
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -2646,23 +2552,23 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           - 2
           - 3
           m_ValueList:
-          - rid: 8112812696905449927
           - rid: 8112812696905449928
           - rid: 8112812696905449929
           - rid: 8112812696905449930
-          - rid: 8112812696905449931
-          - rid: 8112812696905449976
-          - rid: 8112812696905449977
-          - rid: 8112812696905449978
+          - rid: 8112812703323521225
+          - rid: 8112812703323521226
+          - rid: 8112812703323521153
+          - rid: 8112812703323521227
+          - rid: 8112812703323521228
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -2678,10 +2584,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449932
-    - rid: 8112812696905449927
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 4
     - rid: 8112812696905449928
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -2701,9 +2603,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449931
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449932
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -2749,7 +2648,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 6e1fa06bfa8c195a7b6bb495e2b554b4
         m_Version: 2
-        m_Position: {x: -1670.6298, y: 743.43146}
+        m_Position: {x: -1765.6984, y: 645.09973}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -2757,17 +2656,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
+          - __option_ConnectionCount
           - 0
           m_ValueList:
-          - rid: 8112812696905449935
           - rid: 8112812696905449936
           - rid: 8112812696905449937
           - rid: 8112812696905449938
-          - rid: 8112812696905449939
+          - rid: 8112812703323521154
+          - rid: 8112812703323521250
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -2783,10 +2682,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449940
-    - rid: 8112812696905449935
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449936
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -2806,9 +2701,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449939
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449940
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -2822,7 +2714,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 1069708aed05df4b28ce93b0925f9ffc
         m_Version: 2
-        m_Position: {x: -1319.5304, y: 745.14264}
+        m_Position: {x: -1438.6134, y: 648.0103}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -2830,17 +2722,19 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
+          - 1
           m_ValueList:
-          - rid: 8112812696905449943
           - rid: 8112812696905449944
           - rid: 8112812696905449945
           - rid: 8112812696905449946
-          - rid: 8112812696905449947
+          - rid: 8112812703323521229
+          - rid: 8112812703323521155
+          - rid: 8112812703323521243
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -2856,42 +2750,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449948
-    - rid: 8112812696905449942
-      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Guid:
-          m_Value0: 1104556512956005047
-          m_Value1: 6732315176627711465
-        m_HashGuid:
-          serializedVersion: 2
-          Hash: b73a16dd4b2c540fe9addddafbfc6d5d
-        m_Version: 2
-        m_FromPortReference:
-          m_NodeModelGuid:
-            m_Value0: 6492375345006649198
-            m_Value1: 12994210809649589115
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 6e1fa06bfa8c195a7b6bb495e2b554b4
-          m_UniqueId: Connections
-          m_PortDirection: 2
-          m_PortOrientation: 0
-          m_Title: Connections
-        m_ToPortReference:
-          m_NodeModelGuid:
-            m_Value0: 5467094990439082256
-            m_Value1: 18203373302487174696
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 1069708aed05df4b28ce93b0925f9ffc
-          m_UniqueId: 0
-          m_PortDirection: 1
-          m_PortOrientation: 0
-          m_Title: 0
-    - rid: 8112812696905449943
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449944
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -2911,9 +2769,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449947
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449948
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -2935,21 +2790,21 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           - 2
           m_ValueList:
-          - rid: 8112812696905449951
           - rid: 8112812696905449952
           - rid: 8112812696905449953
           - rid: 8112812696905449954
-          - rid: 8112812696905449955
-          - rid: 8112812696905449957
-          - rid: 8112812696905449966
+          - rid: 8112812703323521230
+          - rid: 8112812703323521231
+          - rid: 8112812703323521156
+          - rid: 8112812703323521232
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -2965,42 +2820,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905449956
-    - rid: 8112812696905449950
-      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Guid:
-          m_Value0: 6339909327071607565
-          m_Value1: 4987143775789506504
-        m_HashGuid:
-          serializedVersion: 2
-          Hash: 0dfb4954f1e1fb57c8dfbb4fd7e43545
-        m_Version: 2
-        m_FromPortReference:
-          m_NodeModelGuid:
-            m_Value0: 5467094990439082256
-            m_Value1: 18203373302487174696
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 1069708aed05df4b28ce93b0925f9ffc
-          m_UniqueId: Connections
-          m_PortDirection: 2
-          m_PortOrientation: 0
-          m_Title: Connections
-        m_ToPortReference:
-          m_NodeModelGuid:
-            m_Value0: 12639019157523904563
-            m_Value1: 13150709656727690171
-          m_NodeModelHashGuid:
-            serializedVersion: 2
-            Hash: 33b89199f5d066afbb9b8de1c1b480b6
-          m_UniqueId: 0
-          m_PortDirection: 1
-          m_PortOrientation: 0
-          m_Title: 0
-    - rid: 8112812696905449951
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 3
     - rid: 8112812696905449952
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3020,15 +2839,9 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449955
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449956
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
-    - rid: 8112812696905449957
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449958
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3039,7 +2852,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: d2a3d496147e329a73c69cb8ec382044
         m_Version: 2
-        m_Position: {x: -1317.226, y: 961.0556}
+        m_Position: {x: -1374.6929, y: 903.5887}
         m_Title: 
         m_Tooltip: 
         m_NodePreviewModel:
@@ -3047,17 +2860,15 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
-          - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449960
           - rid: 8112812696905449961
           - rid: 8112812696905449962
           - rid: 8112812696905449963
-          - rid: 8112812696905449964
+          - rid: 8112812703323521157
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3105,10 +2916,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 1
-    - rid: 8112812696905449960
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449961
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3128,15 +2935,9 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449964
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449965
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
-    - rid: 8112812696905449966
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449967
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3155,17 +2956,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449969
           - rid: 8112812696905449970
           - rid: 8112812696905449971
           - rid: 8112812696905449972
-          - rid: 8112812696905449973
+          - rid: 8112812703323521233
+          - rid: 8112812703323521158
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3213,10 +3014,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 2
-    - rid: 8112812696905449969
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449970
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3236,21 +3033,9 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449973
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449974
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
-    - rid: 8112812696905449976
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
-    - rid: 8112812696905449977
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
-    - rid: 8112812696905449978
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449979
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3269,19 +3054,19 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449981
           - rid: 8112812696905449982
           - rid: 8112812696905449983
           - rid: 8112812696905449984
-          - rid: 8112812696905449985
-          - rid: 8112812696905449988
+          - rid: 8112812703323521234
+          - rid: 8112812703323521235
+          - rid: 8112812703323521159
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3329,10 +3114,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 0
-    - rid: 8112812696905449981
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 2
     - rid: 8112812696905449982
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3352,9 +3133,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449985
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449986
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -3390,9 +3168,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 1
-    - rid: 8112812696905449988
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449989
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3411,17 +3186,15 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
-          - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449991
           - rid: 8112812696905449992
           - rid: 8112812696905449993
           - rid: 8112812696905449994
-          - rid: 8112812696905449995
+          - rid: 8112812703323521160
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3469,10 +3242,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 0
-    - rid: 8112812696905449991
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905449992
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3492,9 +3261,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905449995
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905449996
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -3516,17 +3282,15 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
-          - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905449999
           - rid: 8112812696905450000
           - rid: 8112812696905450001
           - rid: 8112812696905450002
-          - rid: 8112812696905450003
+          - rid: 8112812703323521161
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3574,10 +3338,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 1
-    - rid: 8112812696905449999
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905450000
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3597,9 +3357,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905450003
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450004
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -3621,21 +3378,21 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           - 2
           m_ValueList:
-          - rid: 8112812696905450007
           - rid: 8112812696905450008
           - rid: 8112812696905450009
           - rid: 8112812696905450010
-          - rid: 8112812696905450011
-          - rid: 8112812696905450013
-          - rid: 8112812696905450054
+          - rid: 8112812703323521236
+          - rid: 8112812703323521237
+          - rid: 8112812703323521162
+          - rid: 8112812703323521238
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3683,10 +3440,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 2
-    - rid: 8112812696905450007
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 3
     - rid: 8112812696905450008
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3706,15 +3459,9 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905450011
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450012
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
-    - rid: 8112812696905450013
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450014
       type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3733,15 +3480,15 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905450016
           - rid: 8112812696905450017
           - rid: 8112812696905450018
           - rid: 8112812696905450019
+          - rid: 8112812703323521163
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3789,10 +3536,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 0
-    - rid: 8112812696905450016
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 0
     - rid: 8112812696905450017
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3833,15 +3576,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
+          - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905450024
           - rid: 8112812696905450025
           - rid: 8112812696905450026
           - rid: 8112812696905450027
+          - rid: 8112812703323521239
+          - rid: 8112812703323521164
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3889,10 +3634,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 1
-    - rid: 8112812696905450024
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 0
     - rid: 8112812696905450025
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -3933,17 +3674,17 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905450040
           - rid: 8112812696905450041
           - rid: 8112812696905450042
           - rid: 8112812696905450043
-          - rid: 8112812696905450044
+          - rid: 8112812703323521240
+          - rid: 8112812703323521165
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -3991,10 +3732,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 3
-    - rid: 8112812696905450040
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905450041
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -4014,9 +3751,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905450044
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450045
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -4038,15 +3772,15 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905450048
           - rid: 8112812696905450049
           - rid: 8112812696905450050
           - rid: 8112812696905450051
+          - rid: 8112812703323521166
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -4094,10 +3828,6 @@ MonoBehaviour:
           m_PortDirection: 1
           m_PortOrientation: 0
           m_Title: 0
-    - rid: 8112812696905450048
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 0
     - rid: 8112812696905450049
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -4120,9 +3850,6 @@ MonoBehaviour:
     - rid: 8112812696905450053
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
-    - rid: 8112812696905450054
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450055
       type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -4202,8 +3929,8 @@ MonoBehaviour:
         m_TitleAlignment: 0
         m_Position:
           serializedVersion: 2
-          x: 19.415802
-          y: -6.5965157
+          x: 13.328827
+          y: -10.94434
           width: 340
           height: 202.49802
         m_Comment: 
@@ -4271,10 +3998,10 @@ MonoBehaviour:
         m_TitleAlignment: 0
         m_Position:
           serializedVersion: 2
-          x: -1716.226
-          y: -708.9444
-          width: 2978
-          height: 2772.206
+          x: -1983.7734
+          y: -709
+          width: 3245.7734
+          height: 2772
         m_Comment: 
         m_ElementColor:
           m_Color: {r: 0.20784314, g: 0.22745098, b: 0.2784314, a: 1}
@@ -4294,9 +4021,9 @@ MonoBehaviour:
         m_TitleAlignment: 0
         m_Position:
           serializedVersion: 2
-          x: -1686.226
-          y: 222.0556
-          width: 1480.4667
+          x: -1958.3778
+          y: 222
+          width: 1752.3778
           height: 1808
         m_Comment: 
         m_ElementColor:
@@ -4343,19 +4070,19 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
           - 0
           - 1
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905450065
           - rid: 8112812696905450066
           - rid: 8112812696905450067
           - rid: 8112812696905450068
-          - rid: 8112812696905450069
-          - rid: 8112812696905450084
+          - rid: 8112812703323521241
+          - rid: 8112812703323521242
+          - rid: 8112812703323521167
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -4371,10 +4098,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905450070
-    - rid: 8112812696905450065
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 2
     - rid: 8112812696905450066
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -4394,9 +4117,6 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905450069
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450070
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
@@ -4586,17 +4306,15 @@ MonoBehaviour:
         m_State: 0
         m_InputConstantsById:
           m_KeyList:
-          - __option_ConnectionCount
           - __option_ID
           - Name
           - District
-          - 0
+          - __option_ConnectionCount
           m_ValueList:
-          - rid: 8112812696905450078
           - rid: 8112812696905450079
           - rid: 8112812696905450080
           - rid: 8112812696905450081
-          - rid: 8112812696905450082
+          - rid: 8112812703323521168
         m_InputPortInfos:
           expandedPortsById:
             m_KeyList: []
@@ -4612,10 +4330,6 @@ MonoBehaviour:
           m_HasUserColor: 0
         m_Node:
           rid: 8112812696905450083
-    - rid: 8112812696905450078
-      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data:
-        m_Value: 1
     - rid: 8112812696905450079
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -4635,15 +4349,9 @@ MonoBehaviour:
         m_EnumType:
           m_Identification: Unity.GraphToolkit.WorldMapEditor.Districts, Unity.GraphToolkit.WorldMapEditor,
             Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    - rid: 8112812696905450082
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450083
       type: {class: LocationNode, ns: Unity.GraphToolkit.WorldMapEditor, asm: Unity.GraphToolkit.WorldMapEditor}
       data: 
-    - rid: 8112812696905450084
-      type: {class: 'Constant`1[[Unity.GraphToolkit.WorldMapEditor.LocationNode, Unity.GraphToolkit.WorldMapEditor]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
-      data: {}
     - rid: 8112812696905450085
       type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
       data:
@@ -5017,3 +4725,235 @@ MonoBehaviour:
         m_ElementColor:
           m_Color: {r: 0.20784314, g: 0.22745098, b: 0.2784314, a: 1}
           m_HasUserColor: 0
+    - rid: 8112812703323521143
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521144
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521145
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521146
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521147
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 0
+    - rid: 8112812703323521148
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 2
+    - rid: 8112812703323521149
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 2
+    - rid: 8112812703323521150
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521151
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 2
+    - rid: 8112812703323521152
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521153
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 4
+    - rid: 8112812703323521154
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521155
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 2
+    - rid: 8112812703323521156
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 3
+    - rid: 8112812703323521157
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 0
+    - rid: 8112812703323521158
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521159
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 2
+    - rid: 8112812703323521160
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 0
+    - rid: 8112812703323521161
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 0
+    - rid: 8112812703323521162
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 3
+    - rid: 8112812703323521163
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 0
+    - rid: 8112812703323521164
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521165
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 1
+    - rid: 8112812703323521166
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 0
+    - rid: 8112812703323521167
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 2
+    - rid: 8112812703323521168
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 0
+    - rid: 8112812703323521213
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521214
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521215
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521216
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521217
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521218
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521219
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521220
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521221
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521222
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521223
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521224
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521225
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521226
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521227
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521228
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521229
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: f0c6f131-9dec-48cd-ae78-3444d7ba7171
+    - rid: 8112812703323521230
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 242fc347-0afa-45c2-a690-a442dd9f684f
+    - rid: 8112812703323521231
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521232
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521233
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521234
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521235
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521236
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521237
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521238
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521239
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521240
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521241
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521242
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 
+    - rid: 8112812703323521243
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 40447fbf-5eed-42f4-a703-925373a8fa25
+    - rid: 8112812703323521250
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: UnityEditor.GraphToolkitModule}
+      data:
+        m_Value: 5839dcf3-7f82-4c22-991a-2b896cf4e67c
