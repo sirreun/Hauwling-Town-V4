@@ -10,6 +10,7 @@ namespace Unity.GraphToolkit.WorldMapEditor
     {
     
     }
+
     [Serializable]
     public class LocationJson
     {

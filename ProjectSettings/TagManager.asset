@@ -36,7 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - FadeAndLoadScreens
   m_SortingLayers:
   - name: Default
     uniqueID: 0
@@ -56,5 +56,9 @@ TagManager:
   - name: UI
     uniqueID: 370455345
     locked: 0
+  - name: FadeAndLoadScreens
+    uniqueID: 1998540759
+    locked: 0
   m_RenderingLayers:
   - Default
+  m_MigratedRenderPipelines: []
