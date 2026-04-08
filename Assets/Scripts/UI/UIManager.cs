@@ -16,7 +16,7 @@ public class UIManager : DebugMonoBehaviour
     [Header("Interactions UI")]
     [SerializeField] private InteractionTagAnimator interactionTagAnimator;
     [SerializeField] private TextMeshPro[] interactionOptionTexts;
-    public int CurrentInteractableIndex = 0;
+    public int CurrentInteractableIndex { get; set; }
     private int currentOptionText = 0;
     private const int numberOfOptionTexts = 3;
 
@@ -38,7 +38,7 @@ public class UIManager : DebugMonoBehaviour
 
     void Start()
     {
-
+        CurrentInteractableIndex = 0;
     }
 
     // INVENTORY FUNCTIONS
@@ -124,6 +124,10 @@ public class UIManager : DebugMonoBehaviour
             interactionOptionTexts[i].text = updatedText;
         }
     }
+
+    //TODO: there is an error caused by something when navigating an interacting, where it makes 
+    // all the ui disapear adn interactions cause index issues (goes up to index 3 when there were never 3 items)
+    // when pressing ws and e very quickly, this happened
 
     /// <summary>
     /// Updates interaction options text when navigated, and determines if a highlight should 

@@ -44,6 +44,7 @@ public class InteractionsManager : DebugMonoBehaviour
     {
         Interactables.Remove(interactable);
         // TODO: update interactables UI
+        UIManager.instance.CurrentInteractableIndex = 0; // reset
         UIManager.instance.UpdateInteractionsText();
     }
 

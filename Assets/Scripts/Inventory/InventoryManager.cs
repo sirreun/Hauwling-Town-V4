@@ -38,7 +38,7 @@ public class InventoryManager : DebugMonoBehaviour, IDataPersistence
     // PUBLIC FUNCTIONS
     public void AddItem(Item item, int amount = 1)
     {
-        (string, int) value = ("", 0);
+        (string, int) value;
         if (Items.TryGetValue(item.ID, out value))
         {
             Items[item.ID] = (value.Item1, value.Item2 + amount);

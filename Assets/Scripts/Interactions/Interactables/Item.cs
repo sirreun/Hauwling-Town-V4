@@ -23,13 +23,13 @@ public class Item : Interactable
     public override void Interaction()
     {
         PickUpItem();
-        //https://stackoverflow.com/questions/66811360/c-sharp-unity-wait-for-function-to-be-called
-        //TODO destory gameobject after itterable in inventory manager uis done
     }
 
     public void PickUpItem()
     {
         InventoryManager.instance.AddItem(this);
+        Destroy(GetComponent<Collider2D>()); // Remove so as not to confuse interactionsmanager
+        InteractionsManager.instance.RemoveInteractable(this);
         Destroy(this.gameObject);
     }
 }
